@@ -1,0 +1,55 @@
+.cart{
+    margin: 4px;
+    margin-top: 26px;
+}
+
+.Recommend{
+    background-color: whitesmoke;
+    flex: 0.8;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image{
+    width: 290px;
+    height: 190px;
+    
+}
+
+.heading{
+    font-size: medium;
+}
+
+.avatar{
+    margin-top: 16px;
+}
+
+.bottom{
+    display: flex;
+    margin-top: -5px;
+    width: 290px;
+    height: 100px;
+}
+
+.color_Class{
+    font-size: small;
+    color: gray;
+    padding-left: 20px;
+}
+
+.likes{
+    display: flex;
+   /* padding-left: 9px; */
+}
+
+.bullet{
+    margin-left: 8px;
+    margin-right: 8px;
+    
+}
+
+.heading{
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
